@@ -1,11 +1,8 @@
-/*
-.hanken-grotesk-<uniquifier> {
-  font-family: "Hanken Grotesk", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-}
-*/
+/* font-weight: <weight>; L'ho usato solo perche ho incollato il codice dei font di google. È presente nell' Embed Code fornito. */
+
+
+
+
 
 .titoli{
     color: rgb(99, 99, 0);
@@ -31,13 +28,8 @@
   font-weight: <weight>;
   font-style: normal;
   font-size: 20px;
-
-
 }
-/* width del 60% */
-/* .articolo{
-  text-align: center;
-} */
+
 
 header{
     background-image: url(https://picsum.photos/200/300);
