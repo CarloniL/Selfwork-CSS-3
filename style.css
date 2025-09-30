@@ -1,5 +1,6 @@
 /* font-weight: <weight>; L'ho usato solo perche ho incollato il codice dei font di google. È presente nell' Embed Code fornito. */
 
+/* Penso di aver capito... va bene? */
 
 
 
@@ -8,7 +9,7 @@
     color: rgb(99, 99, 0);
     font-family:"Roboto Mono", monospace;
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-weight: 400;
   font-style: normal;
   background-color: rgb(255, 255, 134); 
    text-align: center;
@@ -25,7 +26,7 @@
 .testo{
   font-family: "Hanken Grotesk", sans-serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-weight: 400;
   font-style: normal;
   font-size: 20px;
 }
